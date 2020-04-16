@@ -1,6 +1,6 @@
 # jquery-rails
 
-
+## Customize
 1. **customize this gem with downversion jquery 1.12.4 to 1.11.1 for incompability of upgrading rails 4.2.11.1**
 2. **emberjs 1.6.1(jquery1.11.1) & activeadmin1.4.3(jquery3)**
 3. **please check file: VERSIONS.md**
