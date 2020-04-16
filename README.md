@@ -1,5 +1,9 @@
 # jquery-rails
 
+
+**customize this gem with downversion jquery 1.12.4 to 1.11.1 for incompability of upgrading rails 4.2.11.1**
+
+
 jQuery! For Rails! So great.
 
 This gem provides:
