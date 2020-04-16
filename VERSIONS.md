@@ -1,5 +1,9 @@
 # Bundled Versions
 
+
+customize 4.3.5 with downversion jquery1.12.4 to 1.11.1
+
+
 | Gem    | jQuery | jQuery UJS | jQuery UI |
 |--------|--------|------------| ----------|
 | 4.3.5  | 1.12.4 & 2.2.4 & 3.4.1 | 1.2.2 | -         |
